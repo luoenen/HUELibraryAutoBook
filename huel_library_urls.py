@@ -3,10 +3,10 @@
 """
 
 # 首页
-index_url = 'https://wechat.laixuanzuo.com/index.php/reserve/index.html?f=wechat'
+index_url = 'http://wechat.laixuanzuo.com/index.php/reserve/index.html?f=wechat'
 
 # 明日预定
-booking_url = 'https://wechat.laixuanzuo.com/index.php/prereserve/index.html'
+booking_url = 'http://wechat.laixuanzuo.com/index.php/prereserve/index.html'
 
 # 预定
-booked_url = 'https://wechat.laixuanzuo.com/index.php/reserve/layoutApi/action=prereserve_event&libid='
+booked_url = "https://wechat.laixuanzuo.com/index.php/prereserve/save/libid=11117&"
