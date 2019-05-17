@@ -5,7 +5,7 @@
 # 首页
 index_url = 'http://wechat.laixuanzuo.com/index.php/reserve/index.html?f=wechat'
 
-# 明日预定
+# 明日预定      https://wechat.laixuanzuo.com/index.php/reserve/layoutApi/action=prereserve_event&libid=10065
 booking_url = 'http://wechat.laixuanzuo.com/index.php/prereserve/index.html'
 
 # 预定
